@@ -1,4 +1,4 @@
-# Torob-Clone-Full-Stack-E-commerce-Platform-with-FastAPI
+# Torob-FullStack-Ecommerce-Platform
 This project is a comprehensive implementation of a Torob-like e-commerce platform, featuring a robust backend and a RESTful API. It provides a solid foundation for building a price comparison and product listing website, similar to Torob.com, an Iranian online marketplace.
 
 Key Features:
